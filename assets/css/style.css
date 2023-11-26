@@ -6655,7 +6655,7 @@ blockquote {
     border-radius: 0; }
     @media only screen and (min-width: 992px) {
       .newsletter-form input {
-        padding: 20px 50px; } }
+        padding: 10px 50px; } }
   .newsletter-form .theme-btn {
     -webkit-box-flex: 0;
     -ms-flex: none;
@@ -7653,7 +7653,7 @@ blockquote {
   color: #d5d5d5; }
 
 .footer-widget {
-  margin-bottom: 50px; }
+  margin-bottom: 10px; }
   .footer-widget .social-style-one a {
     width: 46px;
     height: 46px;
